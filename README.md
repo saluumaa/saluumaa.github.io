@@ -11,7 +11,7 @@
 - HTML, CSS
 - VSCode
 
- [Live Demo Link](https://saluumaa.github.io/Hello-test)
+ [Live Demo Link](https://saluumaa.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
